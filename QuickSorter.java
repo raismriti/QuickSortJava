@@ -1,9 +1,6 @@
 package project5;
 
 // Name: Smriti Rai
-// Professor: Shruthi Chappidi
-// Class: CS3345.005
-// Due: 5/8/2021
 
 import java.time.*;
 import java.util.*;
